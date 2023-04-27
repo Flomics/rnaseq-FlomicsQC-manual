@@ -2,8 +2,8 @@
 
 # -- Project information
 
-project = 'WW manual'
-copyright = '2022, Flomics Biotech'
+project = 'Flomics rnaseq FlomicsQC manual'
+copyright = '2023, Flomics Biotech'
 author = 'Flomics Biotech'
 
 release = '0.1'
