@@ -81,6 +81,6 @@ Metrics obtained from `Qualimap <http://qualimap.conesalab.org/doc_html/analysis
 
 Picard
 ++++++++++++++
-Metrics obtained from `Picard <https://gatk.broadinstitute.org/hc/en-us/articles/360037055772-CollectInsertSizeMetrics-Picard->`.
+Metrics obtained from `Picard <https://gatk.broadinstitute.org/hc/en-us/articles/360037055772-CollectInsertSizeMetrics-Picard->`_.
 
 * **median_insert_size**: median of the insert sizes of the reads (equivalent to the RNA length).
